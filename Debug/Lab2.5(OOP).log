@@ -1,0 +1,5 @@
+﻿  Bus.cpp
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 2.1-2.8\Lab2.5(OOP)\Bus.cpp(7,57): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Lab2.5(OOP).vcxproj -> D:\Рабочий стол\дз\2семестр\ООП\Лаб 2.1-2.8\Lab2.5(OOP)\Debug\Lab2.5(OOP).exe
